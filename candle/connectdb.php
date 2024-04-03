@@ -2,7 +2,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pwd = "12345678";
+$pwd = "123456";
 $db = "shoping";
 
 $conn = mysqli_connect($host, $user, $pwd) or die("เชื่อมต่อฐานข้อมูลไม่ได้");
